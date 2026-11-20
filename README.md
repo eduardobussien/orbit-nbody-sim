@@ -1,4 +1,4 @@
-# Orbit — an N-body gravity simulator in C++
+# Orbit. an N-body gravity simulator in C++
 
 A from-scratch simulator of stars, planets and moons pulling on each other under Newtonian gravity. It starts with two bodies in the terminal and grows into a real-time 3D view of the solar system, started from NASA JPL ephemeris data and checked against it.
 
